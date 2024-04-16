@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "pythonscientific.html",
+    "href": "pythonscientific.html",
+    "title": "HPC",
+    "section": "",
+    "text": "Date:\nThursday, June 6, 2024\nTime:\n1:30pm–4:30pm\nInstructor:\nAlex Razoumov (Simon Fraser University)\nPrerequisites:\nBasic Python knowledge.\nSoftware:\nWe will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the free Home Edition of MobaXterm. On Mac and Linux computers, SSH is usually pre-installed (try typing ssh in a terminal to make sure it is there)."
+  },
+  {
+    "objectID": "pythonhpc.html",
+    "href": "pythonhpc.html",
+    "title": "HPC",
+    "section": "",
+    "text": "Date:\nFriday, June 7, 2024\nTime:\n9:30pm–4:30pm\nInstructor:\nAlex Razoumov (Simon Fraser University)\nPrerequisites:\nBasic Python knowledge. Knowledge of numpy.\nSoftware:\nWe will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the free Home Edition of MobaXterm. On Mac and Linux computers, SSH is usually pre-installed (try typing ssh in a terminal to make sure it is there)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SFU Research Computing 2024 Summer School",
+    "section": "",
+    "text": "Each day we will have morning (9:30am - 12:30pm) and afternoon (1:30m - 4:30pm) sessions. There will be short coffee breaks at 11:00am and 3:00pm with coffee and snacks covered by the registration fee. Participants will have to find lunch on their own.\nYou can attend as many or as few of the courses as you want. All sessions will be in-person at the Big Data Hub at SFU’s main (Burnaby) campus, in the Applied Sciences Building (top floor).\n\n\nTo participate in the hands-on exercises, you will need to bring your own laptop. We will provide guest accounts on our HPC training cluster. For more specific requirements, please see the individual course pages. \n\n\n\n\nMondayJune 3, 2024\n\n\n\n\nBash\nFull-day introduction to Bash & the Unix shell\n\n\n\n\n\n\nTuesdayJune 4, 2024\n\n\n\n\nHPC\nHalf-day introduction to high-performance research computing\n\n\n\n\n\n\nWednesdayJune 5, 2024\n\n\n\n\nGit\nFull-day introduction to version control with Git\n\n\n\n\n\n\n\n\nThursdayJune 6, 2024\n\n\n\n\nIntro to Python\nHalf-day introduction to Python\n\n\n\n\nScientific Python\nHalf-day more advanced Python\n\n\n\n\n\n\nFridayJune 7, 2024\n\n\n\n\nHigh-performance Python\nFull-day course on speeding up your Python with compilers and parallel execution\n\n\n\n\n \n\n\nHosted by:"
+  },
+  {
+    "objectID": "git.html",
+    "href": "git.html",
+    "title": "HPC",
+    "section": "",
+    "text": "Date:\nWednesday, June 5, 2024\nTime:\n9:30am–4:30pm\nInstructor:\nMarie-Hélène Burle (Simon Fraser University)\nPrerequisites:\nSome knowledge of the Bash shell.\nSoftware:\nWe will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the free Home Edition of MobaXterm. On Mac and Linux computers, SSH is usually pre-installed (try typing ssh in a terminal to make sure it is there)."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About SFU Summer School 2023",
+    "section": "",
+    "text": "This spring school is offered by Simon Fraser University on behalf of Western Universities and the Digital Research Alliance of Canada. It is hosted by SFU’s Big Data Hub and is open to all researchers at SFU and other Canadian post-secondary institutions."
+  },
+  {
+    "objectID": "about.html#registration",
+    "href": "about.html#registration",
+    "title": "About SFU Summer School 2023",
+    "section": "Registration",
+    "text": "Registration\nRegistration will open soon and a link to the registration page will be posted here."
+  },
+  {
+    "objectID": "about.html#instructors",
+    "href": "about.html#instructors",
+    "title": "About SFU Summer School 2023",
+    "section": "Instructors",
+    "text": "Instructors\n\n\n\n\n\n\nAlex Razoumov earned his PhD in computational astrophysics from the University of British Columbia and held postdoctoral positions in Urbana-Champaign, San Diego, Oak Ridge, and Halifax. He spent five years as HPC Analyst in SHARCNET and in 2014 moved back to Vancouver to focus on scientific visualization and training researchers to use advanced computing tools. Alex is currently at Simon Fraser University.\n\n\n\n\n\n\n\n\n\n\n\n\nEvolutionary and behavioural ecologist by training, Software/Data Carpentry instructor, and open source advocate, Marie-Hélène Burle develops and delivers training for researchers on high-performance computing tools (R, Python, Julia, Git, Bash scripting, machine learning, parallel scientific programming, and HPC) for Simon Fraser University and the Digital Research Alliance of Canada."
+  },
+  {
+    "objectID": "bash.html",
+    "href": "bash.html",
+    "title": "Bash",
+    "section": "",
+    "text": "Date:\nMonday, June 3, 2024\nTime:\n9:30am–4:30pm\nInstructor:\nAlex Razoumov (Simon Fraser University)\nPrerequisites:\nThis introductory course does not require any previous experience.\nSoftware:\nWe will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the free Home Edition of MobaXterm. On Mac and Linux computers, SSH is usually pre-installed (try typing ssh in a terminal to make sure it is there)."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Please email us at: training at westdri dot ca."
+  },
+  {
+    "objectID": "hpc.html",
+    "href": "hpc.html",
+    "title": "Git",
+    "section": "",
+    "text": "Date:\nTuesday, June 4, 2024\nTime:\n9:30am–4:30pm\nInstructor:\nAlex Razoumov (Simon Fraser University)\nPrerequisites:\nWorking knowledge of the Bash shell.\nSoftware:\nWe will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the free Home Edition of MobaXterm. On Mac and Linux computers, SSH is usually pre-installed (try typing ssh in a terminal to make sure it is there)."
+  },
+  {
+    "objectID": "newsletter.html",
+    "href": "newsletter.html",
+    "title": "Training events mailing list",
+    "section": "",
+    "text": "If you want to get informed about upcoming training events offered by SFU on behalf of Western Universities, please subscribe to our mailing list: \n(We will only email you about training events.)"
+  },
+  {
+    "objectID": "pythonintro.html",
+    "href": "pythonintro.html",
+    "title": "HPC",
+    "section": "",
+    "text": "Date:\nThursday, June 6, 2024\nTime:\n9:30am–12:30pm\nInstructor:\nMarie-Hélène Burle (Simon Fraser University)\nPrerequisites:\nThis introductory course does not require any previous experience.\nSoftware:\nWe will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the free Home Edition of MobaXterm. On Mac and Linux computers, SSH is usually pre-installed (try typing ssh in a terminal to make sure it is there)."
+  }
+]

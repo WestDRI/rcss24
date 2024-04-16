@@ -1,0 +1,28 @@
+---
+title: Git
+description: |
+  Introduction to high-performance research computing on the Alliance clusters.
+title-block-banner: true
+---
+
+<!-- :::{.topdef} -->
+
+**Date:** \
+Tuesday, June 4, 2024
+
+**Time:** \
+9:30am–4:30pm
+
+**Instructor:** \
+Alex Razoumov (Simon Fraser University)
+
+**Prerequisites:** \
+Working knowledge of the Bash shell.
+
+**Software:** \
+We will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the [free Home Edition of MobaXterm](https://mobaxterm.mobatek.net/download.html). On Mac and Linux computers, SSH is usually pre-installed (try typing `ssh` in a terminal to make sure it is there).
+
+<!-- ::: -->
+
+<!-- <br> -->
+<!-- Course notes can be found [here](https://wgpages.netlify.app/hpc-in-summer). -->

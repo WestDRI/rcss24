@@ -1,0 +1,248 @@
+/*-- scss:defaults --*/
+
+// fonts
+$font-family-sans-serif: 'Crimson Pro', serif;
+$font-family-monospace: 'Source Code Pro', 'Lucida Console', monospace;
+
+$presentation-font-size-root: 35px;
+$presentation-font-smaller: 0.8;
+
+$code-block-font-size: 0.6em;
+
+$code-block-border-color: none !important;
+
+#title-slide .title {
+  font-size: 75px;
+  margin-bottom: 50px;
+}
+
+#title-slide .subtitle {
+  font-size: 40px;
+  margin-bottom: 0px;
+  font-weight: 600;
+}
+
+.reveal .author {
+  font-size: 40px;
+  font-style: italic;
+}
+
+.reveal .date {
+  font-size: 35px;
+}
+
+.reveal .footer a {
+  color: #999999 !important;
+  font-weight: 600 !important;
+}
+
+.reveal .slide-menu-button .fa-bars::before {
+  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(153, 153, 153)" class="bi bi-list" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/></svg>') !important;
+}
+
+.reveal .progress {
+  background: rgba(0,0,0,.2);
+  color: #999999 !important;
+}
+
+.reveal .slide aside,
+.reveal .slide div.aside {
+  position: absolute;
+  bottom: 20px;
+  font-size: 18px !important;
+  color: #6f6f6f;
+  p {
+    margin: 8px 0 !important;
+  }
+}
+
+.reveal img {
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.3);
+  border-radius: 3px;
+}
+
+.reveal img[alt=noshadow] {
+  box-shadow: none;
+}
+
+.reveal img[alt=frontlogo] {
+  width: 40%;
+  margin-top: 30px;
+  box-shadow: none;
+}
+
+.reveal .slide-logo {
+  display: block;
+  position: fixed;
+  bottom: 0;
+  right: 12px;
+  max-height: 2.2rem;
+  height: 100%;
+  width: auto;
+  box-shadow: none !important;
+  border-radius: 0px !important;
+}
+
+.reveal {
+  font-size: 30px !important;
+}
+
+.reveal pre code {
+  font-size: 1.1em;
+}
+
+.reveal code {
+  font-size: 23px;
+}
+
+.reveal p {
+  margin: 25px 0 !important;
+}
+
+.def {
+  background-color: #eae8f0;
+  font-family: 'Crimson Text', serif;
+  margin: 2rem 0;
+  padding: 1rem 1.8rem 0.3rem 1.8rem;
+  line-height: 1.3rem;
+  font-size: 1.0rem;
+  border: 0.5pt solid #e8e2e9;
+  border-radius: 5px;
+}
+
+.box {
+  font-family: 'Crimson Text', serif;
+  margin: 2rem 0;
+  padding: 1rem 1.8rem 0.3rem 1.8rem;
+  line-height: 1.3rem;
+  font-size: 1.0rem;
+  border: 1pt solid #e8e2e9;
+  border-radius: 5px;
+}
+
+.info {
+  /* background-color: #eae8f0; */
+  background-color: #f0f5f5;
+  font-family: 'Crimson Text', serif;
+  margin: 2rem 0;
+  padding: 1rem 2rem 0.5rem 2rem;
+  font-size: 1.1rem;
+  border: 1pt solid #669999;
+  border-radius: 5px;
+}
+
+.note {
+  color: #424a57;
+  font-family: 'Maven Pro', sans-serif;
+  font-size: 22px;
+  font-style: italic;
+  padding-left: 22px;
+  margin: 45px 10px 45px 35px;
+  border-left: 2px solid #7b809d;
+}
+
+.example {
+  color: #6e7b91;
+  font-family: 'Maven Pro', sans-serif;
+  font-size: 24px;
+  font-style: italic;
+  line-height: 31px;
+}
+
+.emph {
+  font-weight: 600;
+  color: orange;
+}
+
+.exo {
+  color: #424a57;
+  border-left: 5px solid #f6903c;
+  margin: 45px 50px 45px 20px;
+  padding-left: 30px;
+}
+
+.exosimple {
+  color: #aa5108;
+  border-left: 5px solid #f6903c;
+  margin: 45px 50px 45px 20px;
+  padding-left: 30px;
+}
+
+.yourturn {
+  color: #f79e55;
+  font-weight: bold;
+}
+
+.reveal blockquote {
+  display: block !important;
+  position: relative !important;
+  font-size: 23px !important;
+  display: block !important;
+  position: relative !important;
+  color: #a1aaaa !important;
+  width: unset !important;
+  margin: 12px 0px 12px 50px !important;
+  padding: 0px 0px 0px 30px !important;
+  border-left: 4px solid #bcc2c2 !important;
+  background: none !important;
+  box-shadow: none !important;
+  font-style: italic !important;
+}
+
+.code-with-filename .code-with-filename-file,
+.code-with-filename .code-with-filename-file pre {
+  background-color: transparent !important;
+}
+
+.code-with-filename .code-with-filename-file{
+  padding-bottom: 6px !important;
+  padding-top: 4px !important;
+  padding-left: .1em !important;
+}
+
+.reveal h2 {
+  margin-bottom: 17px !important;
+}
+
+.reveal h3 {
+  margin-top: 15px !important;
+  font-size: 1.3em !important;
+  color: #404040 !important;
+}
+
+.reveal h4 {
+  font-size: 1.2em !important;
+  color: #4d4d4d !important;
+}
+
+.reveal h5 {
+  font-size: 1.1em !important;
+  color: #595959 !important;
+}
+
+.reveal h6 {
+  color: #666666 !important;
+}
+
+.caption {
+  color: #978282;
+  font-size: 17px;
+  font-style: italic;
+  p {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+}
+
+.reveal .slide figure>figcaption,
+.reveal .slide img.stretch+p.caption,
+.reveal .slide img.r-stretch+p.caption {
+  color: #978282;
+  font-size: 17px !important;
+  font-style: italic;
+  margin: -35px 0 0 15px !important;
+}
+
+.reveal div.sourceCode {
+  margin-top: 25px !important;
+}

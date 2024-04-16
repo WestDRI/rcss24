@@ -1,0 +1,181 @@
+---
+title: SFU Research Computing 2024 Summer School
+description: |
+  <br>This in-person summer school is offered jointly by SFU's [Research Computing
+  Group](https://www.rcg.sfu.ca) and the [Institute for Neuroscience and
+  Neurotechnology](https://www.sfu.ca/neuro-institute.html), on behalf of the [Digital Research Alliance of
+  Canada](https://alliancecan.ca). It is hosted by [SFU's Big Data
+  Hub](https://www.sfu.ca/big-data.html) and is open to all researchers at SFU and other Canadian
+  post-secondary institutions.
+
+  To register, please go [here](). <!-- https://www.eventbrite.ca/e/621174077387 -->
+
+toc: false
+title-block-banner: true
+anchor-sections: false
+---
+
+
+<!-- SFU's Research Computing 2024 Summer School will be held on June 3-7 (full week), organized  with -->
+<!-- {:target="_blank"} and -->
+<!-- hosted by [SFU's Big Data Hub](https://www.sfu.ca/big-data.html){:target="_blank"}. -->
+
+
+
+
+
+
+
+
+Each day we will have morning (9:30am - 12:30pm) and afternoon (1:30m - 4:30pm) sessions. There will be short
+coffee breaks at 11:00am and 3:00pm with coffee and snacks covered by the registration fee. Participants will
+have to find lunch on their own.
+
+You can attend as many or as few of the courses as you want. All sessions will be in-person at the Big Data
+Hub at SFU's main (Burnaby) campus, in the Applied Sciences Building (top floor).
+
+<!-- You can attend as many or as few of the courses as you want. All sessions will be in the [Big Data Hub's -->
+<!-- Presentation Studio](https://www.google.com/maps/place/SFU's+Big+Data+Hub/@49.2773182,-122.9170329,17z/data=!3m2!4b1!5s0x548679bf1759cda7:0x9fd3f3a25f691ba2!4m6!3m5!1s0x548679bf1a2d718b:0x9c74a8237eb2fc82!8m2!3d49.2773147!4d-122.914458!16s%2Fg%2F11h9qf0qbw) (ASB 10900). -->
+
+To participate in the hands-on exercises, you will need to bring your own laptop. We will provide guest
+accounts on our HPC training cluster. For more specific requirements, please see the individual course
+pages. <br><br><br>
+
+:::{layout="[[2.5, 10], [2.5, 10], [2.5, 10], [2.5, 5, 5], [2.5, 10]]"}
+
+:::{.card-body}
+
+:::{.date}
+
+Monday<br>June 3, 2024
+
+:::
+
+:::
+
+:::{.card .mb-3}
+
+:::{.card-body}
+
+[Bash](/bash.qmd){.card-title .stretched-link}
+
+[Full-day introduction to Bash & the Unix shell]{.text-muted}
+
+:::
+
+:::
+
+:::{.card-body}
+
+:::{.date}
+
+Tuesday<br>June 4, 2024
+
+:::
+
+:::
+
+:::{.card .mb-3}
+
+:::{.card-body}
+
+[HPC](/hpc.qmd){.card-title .stretched-link}
+
+[Half-day introduction to high-performance research computing]{.text-muted}
+
+:::
+
+:::
+
+:::{.card-body}
+
+:::{.date}
+
+Wednesday<br>June 5, 2024
+
+:::
+
+:::
+
+:::{.card .mb-3}
+
+:::{.card-body}
+
+[Git](/git.qmd){.card-title .stretched-link}
+
+[Full-day introduction to version control with Git]{.text-muted}
+
+:::
+
+:::
+
+:::{.card-body}
+
+:::{.date}
+
+
+<!-- last two days: intro Python + scientific Python: numpy pandas, maybe parallel Python, also Python -->
+<!-- debugging, e.g. https://docs.python.org/3/library/pdb.html -->
+
+Thursday<br>June 6, 2024
+
+:::
+
+:::
+
+:::{.card .mb-3}
+
+:::{.card-body}
+
+[Intro to Python](/pythonintro.qmd){.card-title .stretched-link}
+
+[Half-day introduction to Python]{.text-muted}
+
+:::
+
+:::
+
+:::{.card .mb-3}
+
+:::{.card-body}
+
+[Scientific Python](/pythonscientific.qmd){.card-title .stretched-link}
+
+[Half-day more advanced Python]{.text-muted}
+
+:::
+
+:::
+
+:::{.card-body}
+
+:::{.date}
+
+Friday<br>June 7, 2024
+
+:::
+
+:::
+
+:::{.card .mb-3}
+
+:::{.card-body}
+
+[High-performance Python](/pythonhpc.qmd){.card-title .stretched-link}
+
+[Full-day course on speeding up your Python with compilers and parallel execution]{.text-muted}
+
+:::
+
+:::
+
+:::
+
+<br><br>
+![](/img/sfudrac.png){fig-alt="frontlogo"}
+
+<br>
+<center>Hosted by:</center>
+<br>
+
+<center>![](/img/bigdata_logo.png){fig-alt="frontlogo" width="35%"}</center>
