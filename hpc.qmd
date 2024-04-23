@@ -1,5 +1,5 @@
 ---
-title: Git
+title: HPC
 description: |
   Introduction to high-performance research computing on the Alliance clusters.
 title-block-banner: true
@@ -11,7 +11,7 @@ title-block-banner: true
 Tuesday, June 4, 2024
 
 **Time:** \
-9:30am–4:30pm
+9:30am–4:30pm with a one-hour lunch break (12:30pm-1:30pm)
 
 **Instructor:** \
 Alex Razoumov (Simon Fraser University)

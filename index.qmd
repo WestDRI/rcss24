@@ -81,7 +81,7 @@ Tuesday<br>June 4, 2024
 
 [HPC](/hpc.qmd){.card-title .stretched-link}
 
-[Half-day introduction to high-performance research computing]{.text-muted}
+[Full-day introduction to high-performance computing]{.text-muted}
 
 :::
 

@@ -1,5 +1,5 @@
 ---
-title: HPC
+title: Intro to Python
 description: |
   Introduction to Python.
 title-block-banner: true

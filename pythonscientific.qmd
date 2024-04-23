@@ -1,5 +1,5 @@
 ---
-title: HPC
+title: Scientific Python
 description: |
   More advanced Python.
 title-block-banner: true
