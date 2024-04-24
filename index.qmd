@@ -8,7 +8,7 @@ description: |
   Hub](https://www.sfu.ca/big-data.html) and is open to all researchers at SFU and other Canadian
   post-secondary institutions.
 
-  To register, please go [here](). <!-- https://www.eventbrite.ca/e/621174077387 -->
+  To register, please go [here](https://www.eventbrite.ca/e/881514191677).
 
 toc: false
 title-block-banner: true
