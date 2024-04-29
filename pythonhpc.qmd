@@ -1,9 +1,23 @@
 ---
 title: High-performance Python
 description: |
-  Speeding up your Python with compilers and parallel execution.
+  In scientific computing, Python is the most popular programming/scripting language. While known for its
+  high-level features, hundreds of fantastic libraries and ease of use, Python is slow compared to traditional
+  (C, C++, Fortran) and new (Julia, Chapel) compiled languages. In this course we'll focus on speeding up your
+  Python workflows using a number of different approaches. In Part 1 we will start with traditional
+  vectorization with NumPy, will talk about Python compilers (Numba) and profiling and will cover
+  parallelization. We'll do a little bit of multithreading (possible via numexpr, despite the global
+  interpreter lock) but will target primarily multiprocessing.
+  
+  In Part 2 we will study Ray, a unified framework for scaling AI and Python applications. Since this is not a
+  machine learning workshop, we will not touch most of Ray's AI capabilities, but will focus on its core
+  distributed runtime and data libraries. We will learn several different approaches to parallelizing purely
+  numerical (and therefore CPU-bound) workflows, both with and without reduction. If your code is I/O-bound,
+  you will also benefit from this course, as I/O-bound workflows can be easily processed with Ray.
 title-block-banner: true
 ---
+
+<!-- Speeding up your Python with compilers and parallel execution. -->
 
 <!-- :::{.topdef} -->
 

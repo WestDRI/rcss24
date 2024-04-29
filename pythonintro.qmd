@@ -1,7 +1,10 @@
 ---
-title: Intro to Python
+title: Introduction to Python
 description: |
-  Introduction to Python.
+  Python is a popular language for scientific computing, and it is great for general-purpose programming as
+  well. This introductory course will walk you through the basics of programming in Python. We will cover the
+  main language features – variables and data types, conditionals, lists, for/while loops, list
+  comprehensions, dictionaries, writing functions, and working with external libraries.
 title-block-banner: true
 ---
 
@@ -11,7 +14,7 @@ title-block-banner: true
 Thursday, June 6, 2024
 
 **Time:** \
-9:30am–12:30pm
+9:30am–12:30pm (morning session)
 
 **Instructor:** \
 Marie-Hélène Burle (Simon Fraser University)

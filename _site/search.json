@@ -4,7 +4,7 @@
     "href": "pythonscientific.html",
     "title": "Scientific Python",
     "section": "",
-    "text": "Date:\nThursday, June 6, 2024\nTime:\n1:30pm–4:30pm\nInstructor:\nAlex Razoumov (Simon Fraser University)\nPrerequisites:\nBasic Python knowledge.\nSoftware:\nWe will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the free Home Edition of MobaXterm. On Mac and Linux computers, SSH is usually pre-installed (try typing ssh in a terminal to make sure it is there)."
+    "text": "Date:\nThursday, June 6, 2024\nTime:\n1:30pm–4:30pm (afternoon session)\nInstructor:\nAlex Razoumov (Simon Fraser University)\nPrerequisites:\nBasic Python knowledge.\nSoftware:\nWe will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the free Home Edition of MobaXterm. On Mac and Linux computers, SSH is usually pre-installed (try typing ssh in a terminal to make sure it is there)."
   },
   {
     "objectID": "pythonhpc.html",
@@ -23,7 +23,7 @@
   {
     "objectID": "git.html",
     "href": "git.html",
-    "title": "Git",
+    "title": "Git version control",
     "section": "",
     "text": "Date:\nWednesday, June 5, 2024\nTime:\n9:30am–4:30pm with a one-hour lunch break (12:30pm-1:30pm)\nInstructor:\nMarie-Hélène Burle (Simon Fraser University)\nPrerequisites:\nSome knowledge of the Bash shell.\nSoftware:\nWe will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the free Home Edition of MobaXterm. On Mac and Linux computers, SSH is usually pre-installed (try typing ssh in a terminal to make sure it is there)."
   },
@@ -51,7 +51,7 @@
   {
     "objectID": "bash.html",
     "href": "bash.html",
-    "title": "Bash",
+    "title": "Bash command line",
     "section": "",
     "text": "Date:\nMonday, June 3, 2024\nTime:\n9:30am–4:30pm with a one-hour lunch break (12:30pm-1:30pm)\nInstructor:\nAlex Razoumov (Simon Fraser University)\nPrerequisites:\nThis introductory course does not require any previous experience.\nSoftware:\nWe will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the free Home Edition of MobaXterm. On Mac and Linux computers, SSH is usually pre-installed (try typing ssh in a terminal to make sure it is there)."
   },
@@ -65,7 +65,7 @@
   {
     "objectID": "hpc.html",
     "href": "hpc.html",
-    "title": "HPC",
+    "title": "High-performance computing",
     "section": "",
     "text": "Date:\nTuesday, June 4, 2024\nTime:\n9:30am–4:30pm with a one-hour lunch break (12:30pm-1:30pm)\nInstructor:\nAlex Razoumov (Simon Fraser University)\nPrerequisites:\nWorking knowledge of the Bash shell.\nSoftware:\nWe will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the free Home Edition of MobaXterm. On Mac and Linux computers, SSH is usually pre-installed (try typing ssh in a terminal to make sure it is there)."
   },
@@ -79,8 +79,8 @@
   {
     "objectID": "pythonintro.html",
     "href": "pythonintro.html",
-    "title": "Intro to Python",
+    "title": "Introduction to Python",
     "section": "",
-    "text": "Date:\nThursday, June 6, 2024\nTime:\n9:30am–12:30pm\nInstructor:\nMarie-Hélène Burle (Simon Fraser University)\nPrerequisites:\nThis introductory course does not require any previous experience.\nSoftware:\nWe will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the free Home Edition of MobaXterm. On Mac and Linux computers, SSH is usually pre-installed (try typing ssh in a terminal to make sure it is there)."
+    "text": "Date:\nThursday, June 6, 2024\nTime:\n9:30am–12:30pm (morning session)\nInstructor:\nMarie-Hélène Burle (Simon Fraser University)\nPrerequisites:\nThis introductory course does not require any previous experience.\nSoftware:\nWe will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the free Home Edition of MobaXterm. On Mac and Linux computers, SSH is usually pre-installed (try typing ssh in a terminal to make sure it is there)."
   }
 ]

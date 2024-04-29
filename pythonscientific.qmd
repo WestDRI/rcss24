@@ -1,7 +1,10 @@
 ---
 title: Scientific Python
 description: |
-  More advanced Python.
+  Building on our earlier "Introduction to Python", this course will cover slightly more advanced scientific
+  computing in Python. We will talk about array calculation with
+  NumPy, working with dataframes in Pandas, basic plotting, working with scientific datasets with xarray, and
+  a few other topics.
 title-block-banner: true
 ---
 
@@ -11,7 +14,7 @@ title-block-banner: true
 Thursday, June 6, 2024
 
 **Time:** \
-1:30pm–4:30pm
+1:30pm–4:30pm (afternoon session)
 
 **Instructor:** \
 Alex Razoumov (Simon Fraser University)
