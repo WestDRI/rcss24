@@ -3,7 +3,7 @@ title: Scientific Python
 description: |
   Building on our earlier "Introduction to Python", this course will cover slightly more advanced scientific
   computing in Python. We will talk about array calculation with
-  NumPy, working with dataframes in Pandas, basic plotting, working with scientific datasets with xarray, and
+  NumPy, working with dataframes in Pandas and Polars, basic plotting, working with scientific datasets with xarray, and
   a few other topics.
 title-block-banner: true
 ---
@@ -17,7 +17,7 @@ Thursday, June 6, 2024
 1:30pm–4:30pm (afternoon session)
 
 **Instructor:** \
-Alex Razoumov (Simon Fraser University)
+Alex Razoumov and Marie-Hélène Burle (Simon Fraser University)
 
 **Prerequisites:** \
 Basic Python knowledge.

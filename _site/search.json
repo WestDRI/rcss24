@@ -4,14 +4,14 @@
     "href": "pythonscientific.html",
     "title": "Scientific Python",
     "section": "",
-    "text": "Date:\nThursday, June 6, 2024\nTime:\n1:30pm–4:30pm (afternoon session)\nInstructor:\nAlex Razoumov (Simon Fraser University)\nPrerequisites:\nBasic Python knowledge.\nSoftware:\nWe will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the free Home Edition of MobaXterm. On Mac and Linux computers, SSH is usually pre-installed (try typing ssh in a terminal to make sure it is there)."
+    "text": "Date:\nThursday, June 6, 2024\nTime:\n1:30pm–4:30pm (afternoon session)\nInstructor:\nAlex Razoumov and Marie-Hélène Burle (Simon Fraser University)\nPrerequisites:\nBasic Python knowledge.\nSoftware:\nWe will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the free Home Edition of MobaXterm. On Mac and Linux computers, SSH is usually pre-installed (try typing ssh in a terminal to make sure it is there)."
   },
   {
     "objectID": "pythonhpc.html",
     "href": "pythonhpc.html",
     "title": "High-performance Python",
     "section": "",
-    "text": "Date:\nFriday, June 7, 2024\nTime:\n9:30pm–4:30pm with a one-hour lunch break (12:30pm-1:30pm)\nInstructor:\nAlex Razoumov (Simon Fraser University)\nPrerequisites:\nBasic Python knowledge. Knowledge of numpy.\nSoftware:\nWe will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the free Home Edition of MobaXterm. On Mac and Linux computers, SSH is usually pre-installed (try typing ssh in a terminal to make sure it is there)."
+    "text": "Date:\nFriday, June 7, 2024\nTime:\n9:30pm–4:30pm with a one-hour lunch break (12:30pm-1:30pm)\nInstructor:\nAlex Razoumov (Simon Fraser University)\nPrerequisites:\nSome knowledge of basic Python, numpy, and working with the Slurm scheduler.\nSoftware:\nWe will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the free Home Edition of MobaXterm. On Mac and Linux computers, SSH is usually pre-installed (try typing ssh in a terminal to make sure it is there)."
   },
   {
     "objectID": "index.html",
