@@ -178,4 +178,4 @@ Friday<br>June 7, 2024
 <center>Hosted by:</center>
 <br>
 
-<center>![](/img/bigdata_logo.png){fig-alt="frontlogo" width="35%"}</center>
+<center>![](/img/logo_bigdata.png){fig-alt="frontlogo" width="35%"}</center>

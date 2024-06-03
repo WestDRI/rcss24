@@ -1,5 +1,6 @@
 ---
 title: High-performance Python
+subtitle: Speeding up your Python with compilers and parallel execution.
 description: |
   In scientific computing, Python is the most popular programming/scripting language. While known for its
   high-level features, hundreds of fantastic libraries and ease of use, Python is slow compared to traditional
@@ -17,9 +18,7 @@ description: |
 title-block-banner: true
 ---
 
-<!-- Speeding up your Python with compilers and parallel execution. -->
-
-<!-- :::{.topdef} -->
+:::{.topdef}
 
 **Date:** \
 Friday, June 7, 2024
@@ -36,7 +35,7 @@ Some knowledge of basic Python, numpy, and working with the Slurm scheduler.
 **Software:** \
 We will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the [free Home Edition of MobaXterm](https://mobaxterm.mobatek.net/download.html). On Mac and Linux computers, SSH is usually pre-installed (try typing `ssh` in a terminal to make sure it is there).
 
-<!-- ::: -->
+:::
 
 <!-- <br> -->
 <!-- Course notes can be found [here](https://wgpages.netlify.app/hpc-in-summer). -->
