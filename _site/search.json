@@ -67,7 +67,7 @@
     "href": "hpc.html",
     "title": "High-performance computing",
     "section": "",
-    "text": "Date:\nTuesday, June 4, 2024\nTime:\n9:30am–4:30pm with a one-hour lunch break (12:30pm-1:30pm)\nInstructor:\nAlex Razoumov (Simon Fraser University)\nPrerequisites:\nWorking knowledge of the Bash shell.\nSoftware:\nWe will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the free Home Edition of MobaXterm. On Mac and Linux computers, SSH is usually pre-installed (try typing ssh in a terminal to make sure it is there)."
+    "text": "Date:\nTuesday, June 4, 2024\nTime:\n9:30am–4:30pm with a one-hour lunch break (12:30pm-1:30pm)\nInstructor:\nAlex Razoumov (Simon Fraser University)\nPrerequisites:\nWorking knowledge of the Bash shell.\nSoftware:\nWe will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the free Home Edition of MobaXterm. On Mac and Linux computers, SSH is usually pre-installed (try typing ssh in a terminal to make sure it is there).\n\n\n\nZIP file with PDF slides and sample codes.\nClaim your username – write down your name after your selected username."
   },
   {
     "objectID": "newsletter.html",

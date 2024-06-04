@@ -34,5 +34,5 @@ We will provide access to one of our Linux systems. To make use of it, attendees
 
 <br>
 
-<!-- * [ZIP file](http://bit.ly/introhpc2) with PDF slides and sample codes. -->
-<!-- * Claim your [username](https://etherpad.wikimedia.org/p/sssfu) -- write down your name after your selected username. -->
+* [ZIP file](http://bit.ly/introhpc2) with PDF slides and sample codes.
+* Claim your [username](https://etherpad.wikimedia.org/p/sssfu) -- write down your name after your selected username.
