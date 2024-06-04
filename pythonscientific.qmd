@@ -27,5 +27,8 @@ We will provide access to one of our Linux systems. To make use of it, attendees
 
 :::
 
-<!-- <br> -->
 <!-- Course notes can be found [here](https://wgpages.netlify.app/hpc-in-summer), with section on Polars [here](https://mint.westdri.ca/python/hpc_polars). -->
+
+<br>
+
+- Thursday 5:15pm Cedar tour (The Water Tower Building)
