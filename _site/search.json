@@ -4,7 +4,7 @@
     "href": "pythonscientific.html",
     "title": "Scientific Python",
     "section": "",
-    "text": "Date:\nThursday, June 6, 2024\nTime:\n1:30pm–4:30pm (afternoon session)\nInstructor:\nAlex Razoumov and Marie-Hélène Burle (Simon Fraser University)\nPrerequisites:\nBasic Python knowledge.\nSoftware:\nWe will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the free Home Edition of MobaXterm. On Mac and Linux computers, SSH is usually pre-installed (try typing ssh in a terminal to make sure it is there).\n\n\n\n\nThursday 5:15pm Cedar tour (The Water Tower Building)"
+    "text": "Date:\nThursday, June 6, 2024\nTime:\n1:30pm–4:30pm (afternoon session)\nInstructor:\nAlex Razoumov and Marie-Hélène Burle (Simon Fraser University)\nPrerequisites:\nBasic Python knowledge.\nSoftware:\nWe will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the free Home Edition of MobaXterm. On Mac and Linux computers, SSH is usually pre-installed (try typing ssh in a terminal to make sure it is there).\n\n \n\nThursday 5:15pm Cedar tour (The Water Tower Building)"
   },
   {
     "objectID": "pythonhpc.html",
