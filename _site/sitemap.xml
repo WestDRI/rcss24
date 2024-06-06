@@ -2,34 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://rcss24.netlify.app/pythonscientific.html</loc>
-    <lastmod>2024-06-06T00:00:31.279Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rcss24.netlify.app/pythonhpc.html</loc>
-    <lastmod>2024-06-06T00:00:33.897Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rcss24.netlify.app/hpc.html</loc>
-    <lastmod>2024-06-04T03:50:48.638Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rcss24.netlify.app/bash.html</loc>
-    <lastmod>2024-06-06T00:00:35.979Z</lastmod>
+    <lastmod>2024-06-06T00:04:40.211Z</lastmod>
   </url>
   <url>
     <loc>https://rcss24.netlify.app/git.html</loc>
-    <lastmod>2024-06-06T00:00:22.531Z</lastmod>
+    <lastmod>2024-06-06T00:02:29.160Z</lastmod>
   </url>
   <url>
-    <loc>https://rcss24.netlify.app/index.html</loc>
-    <lastmod>2024-06-05T23:55:29.606Z</lastmod>
+    <loc>https://rcss24.netlify.app/bash.html</loc>
+    <lastmod>2024-06-06T00:04:26.862Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rcss24.netlify.app/hpc.html</loc>
+    <lastmod>2024-06-06T00:04:28.667Z</lastmod>
   </url>
   <url>
     <loc>https://rcss24.netlify.app/pythonintro.html</loc>
-    <lastmod>2024-06-06T00:00:37.098Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rcss24.netlify.app/calendar.html</loc>
-    <lastmod>2024-06-03T03:25:50.322Z</lastmod>
+    <lastmod>2024-06-06T00:04:33.024Z</lastmod>
   </url>
 </urlset>
