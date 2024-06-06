@@ -4,11 +4,7 @@
     "href": "pythonscientific.html",
     "title": "Scientific Python",
     "section": "",
-<<<<<<< HEAD
-    "text": "Date:\nThursday, June 6, 2024\nTime:\n1:30pm–4:30pm (afternoon session)\nInstructor:\nAlex Razoumov and Marie-Hélène Burle (Simon Fraser University)\nPrerequisites:\nBasic Python knowledge.\nSoftware:\nWe will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the free Home Edition of MobaXterm. On Mac and Linux computers, SSH is usually pre-installed (try typing ssh in a terminal to make sure it is there).\n\n\n\n\nAll materials are in the course notes.\nClaim your username – write down your name after your selected username.\nDon’t forget: Thursday 5:15pm Cedar tour in the Water Tower Building."
-=======
-    "text": "Date:\nThursday, June 6, 2024\nTime:\n1:30pm–4:30pm (afternoon session)\nInstructor:\nAlex Razoumov and Marie-Hélène Burle (Simon Fraser University)\nPrerequisites:\nBasic Python knowledge.\nSoftware:\nWe will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the free Home Edition of MobaXterm. On Mac and Linux computers, SSH is usually pre-installed (try typing ssh in a terminal to make sure it is there).\n\n \n\nThursday 5:15pm Cedar tour (The Water Tower Building)"
->>>>>>> 0e87a4bed9d11bb98be0b5646713f2dbe8f24179
+    "text": "Date:\nThursday, June 6, 2024\nTime:\n1:30pm–4:30pm (afternoon session)\nInstructor:\nAlex Razoumov and Marie-Hélène Burle (Simon Fraser University)\nPrerequisites:\nBasic Python knowledge.\nSoftware:\nWe will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the free Home Edition of MobaXterm. On Mac and Linux computers, SSH is usually pre-installed (try typing ssh in a terminal to make sure it is there).\n\n\n\nAll materials are in the course notes, with a separate section on Polars here.\nClaim your username – write down your name after your selected username.\nDon’t forget: Thursday 5:15pm Cedar tour in the Water Tower Building."
   },
   {
     "objectID": "pythonhpc.html",
@@ -85,6 +81,6 @@
     "href": "pythonintro.html",
     "title": "Introduction to Python",
     "section": "",
-    "text": "Date:\nThursday, June 6, 2024\nTime:\n9:30am–12:30pm (morning session)\nInstructor:\nMarie-Hélène Burle (Simon Fraser University)\nPrerequisites:\nThis introductory course does not require any previous experience.\nSoftware:\nWe will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the free Home Edition of MobaXterm. On Mac and Linux computers, SSH is usually pre-installed (try typing ssh in a terminal to make sure it is there)."
+    "text": "Date:\nThursday, June 6, 2024\nTime:\n9:30am–12:30pm (morning session)\nInstructor:\nMarie-Hélène Burle (Simon Fraser University)\nPrerequisites:\nThis introductory course does not require any previous experience.\nSoftware:\nWe will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the free Home Edition of MobaXterm. On Mac and Linux computers, SSH is usually pre-installed (try typing ssh in a terminal to make sure it is there).\n\n Course notes can be found here."
   }
 ]
