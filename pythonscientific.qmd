@@ -31,4 +31,7 @@ We will provide access to one of our Linux systems. To make use of it, attendees
 
 <br>
 
-- Thursday 5:15pm Cedar tour (The Water Tower Building)
+- All materials are in the [course notes](https://wgpages.netlify.app/scientificpython).
+- Claim your [username](https://etherpad.wikimedia.org/p/sssfu) -- write down your name after your selected username.
+- Don't forget: Thursday 5:15pm **Cedar tour** in the [Water Tower
+  Building](https://www.google.com/maps/place/Water+Tower+Building,+Burnaby,+BC/@49.279218,-122.9084899,18.9z).
