@@ -37,5 +37,7 @@ We will provide access to one of our Linux systems. To make use of it, attendees
 
 :::
 
-<!-- <br> -->
-<!-- Course notes can be found [here](https://wgpages.netlify.app/hpc-in-summer). -->
+<br>
+
+- Course materials: [Part 1: towards high-performance Python](https://wgpages.netlify.app/pythonhpc) and [Part
+  2: distributed computing with Ray](https://wgpages.netlify.app/ray).
